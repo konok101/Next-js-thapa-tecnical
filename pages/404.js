@@ -13,7 +13,7 @@ const Erpage = () => {
     useEffect(() => {
         setTimeout(() => {
             router.push('/');
-        }, 3000)
+        }, 300000)
     }, [])
 
 
